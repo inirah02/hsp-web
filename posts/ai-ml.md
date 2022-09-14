@@ -1,6 +1,6 @@
 ---
 title: Highly coveted AI & ML.
-description: This is a post on My Blog about leveraging agile frameworks.
+description: Dive into the plethora this domain offers.
 date: 2021-08-02
 tags:
   - ml
